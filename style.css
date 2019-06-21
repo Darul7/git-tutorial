@@ -1,0 +1,58 @@
+.body{
+    margin: 0;
+    background: gray;
+}
+.p{
+    margin: 0;
+}
+.header{
+    background: #29487d !important;
+    color: #fff;
+}
+#fb{
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-top: 8px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.aHalfWidth{
+    width: 50%;
+}
+.wrapLogo{
+    margin-top: 20px;
+    /*width: 50%;*/
+}
+.wrapSignin{
+   /* width: 50%;*/
+   display: flex;
+}
+.d-flex{
+    display: flex;
+}
+.flex-column{
+    flex-direction: column;
+}
+.wrapEmail{
+    margin: 0 8px;
+    margin-top: 29px;
+    /*flex-direction: column;*/
+}
+.wrapPassword{
+    margin: 0 8px;
+    margin-top: 29px;
+    /*flex-direction: column;*/
+}
+.wrapLogin{
+    justify-content: center;
+}
+.infoUser{
+    width: 500%;
+    margin-left: 150px;
+}
+.wrapFormSignUp{
+    margin: 0 8px;
+}
